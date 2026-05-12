@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+.ipynb_checkpoints/
+.jbeval/
+*.py[oc]
+.iflow/
+build/
+dist/
+wheels/
+*.egg-info
+test/
+auto.yaml
+# Virtual environments
+.venv
+*.log
